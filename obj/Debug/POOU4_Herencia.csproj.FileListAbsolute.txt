@@ -1,0 +1,7 @@
+C:\Users\ulise\source\repos\POOU4_Herencia\bin\Debug\POOU4_Herencia.exe.config
+C:\Users\ulise\source\repos\POOU4_Herencia\bin\Debug\POOU4_Herencia.exe
+C:\Users\ulise\source\repos\POOU4_Herencia\bin\Debug\POOU4_Herencia.pdb
+C:\Users\ulise\source\repos\POOU4_Herencia\obj\Debug\POOU4_Herencia.csproj.AssemblyReference.cache
+C:\Users\ulise\source\repos\POOU4_Herencia\obj\Debug\POOU4_Herencia.csproj.CoreCompileInputs.cache
+C:\Users\ulise\source\repos\POOU4_Herencia\obj\Debug\POOU4_Herencia.exe
+C:\Users\ulise\source\repos\POOU4_Herencia\obj\Debug\POOU4_Herencia.pdb
